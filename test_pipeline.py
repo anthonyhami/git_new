@@ -10,7 +10,7 @@ from kedro_tut.pipelines.data_science.nodes import split_data
 def dummy_data():
     return pd.DataFrame(
         {
-            bla
+            for i in range (bla):
         }
     )
 
