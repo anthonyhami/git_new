@@ -21,7 +21,7 @@ def dummy_parameters():
     parameters = {
         "model_options": {
             
-            "test_size": 0.200000000000000,
+         
             "random_state": 3,
             
         }
