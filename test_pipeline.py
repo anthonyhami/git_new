@@ -23,7 +23,7 @@ def dummy_parameters():
             "test_size": 0.664343453434,
             "test_size": 0.200000000000000,
             "random_state": 3,
-            "features": ["engines", "passenger_capacity", "crew"],
+            
         }
     }
     return parameters
