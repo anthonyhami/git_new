@@ -11,6 +11,8 @@ def dummy_data():
     return pd.DataFrame(
         {
             for i in range (bla):
+                print("Bla")
+            df=pd.read_csv("bla")
         }
     )
 
