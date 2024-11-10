@@ -10,10 +10,7 @@ from kedro_tut.pipelines.data_science.nodes import split_data
 def dummy_data():
     return pd.DataFrame(
         {
-            "engines": [1, 2, 3],
-            "crew": [4, 5, 6],
-            "passenger_capacity": [5, 6, 7],
-            "price": [120, 290, 30],
+            bla
         }
     )
 
