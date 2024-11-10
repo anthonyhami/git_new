@@ -20,7 +20,7 @@ def dummy_data():
 def dummy_parameters():
     parameters = {
         "model_options": {
-            "test_size": 0.2,
+            "test_size": 0.664343453434,
             "random_state": 3,
             "features": ["engines", "passenger_capacity", "crew"],
         }
